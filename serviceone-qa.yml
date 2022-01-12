@@ -1,0 +1,5 @@
+applicationconfigutation:
+  host: http://localhost
+  port: 3305
+  username: service-one-qa
+  password: service-one-qa
